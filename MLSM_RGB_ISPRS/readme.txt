@@ -15,7 +15,7 @@ The released code includes the standalone MLSM module and a simple test demo for
 # Notes
 
 This repository mainly provides the **MLSM plug-and-play module** and its core network implementation.  
-All data preprocessing procedures and the training/testing sample partition strategy used in this study are consistent with those adopted for the comparative methods, and the corresponding files can be found in the **AmRTSNet_v51** file under this GitHub account.
+
 # Citation
 
 If this code is helpful for your research, please cite our paper and clearly acknowledge the source.
