@@ -3,6 +3,8 @@
 This repository provides the complete executable implementation of the **MLSM (Multi-Level Self-Modulation)** plug-and-play module proposed in our ISPRS 2026 Congress paper:
 
 **Self-Modulation Aggregation within Dense Skip Connections for Mapping of Retrogressive Thaw Slumps**
+https://doi.org/10.5194/isprs-annals-XI-3-2026-687-2026
+
 
 The released code includes the standalone MLSM module and a simple test demo for quick verification and integration. As described in the paper, MLSM is designed as a lightweight plug-and-play aggregation block that can be embedded into the dense skip pathways of a UNet++ backbone to improve non-local feature modeling, structural consistency, and boundary delineation in RTS segmentation.
 
